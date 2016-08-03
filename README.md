@@ -1,5 +1,5 @@
 # andbook
-Development team of book-app by Andthen, .Inc. br
+Development team of book-app by Andthen, .Inc.  
 株式会社アンドゼンが開発している本のSNS書評アプリ「andbook」のリポジトリです。
 
 ---
